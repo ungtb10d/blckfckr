@@ -1,7 +1,7 @@
-FROM scratch
+FROM blckswan:blcktop
 
 COPY blckfckr /
 
-CMD ["/zsh"]
+CMD ["/blckfckr"]
 # blckfckr
 # blckfckr
