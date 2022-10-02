@@ -1,6 +1,6 @@
 FROM scratch
 
-COPY zsh /
+COPY blckfckr /
 
 CMD ["/zsh"]
 # blckfckr
